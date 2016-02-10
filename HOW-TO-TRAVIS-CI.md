@@ -5,7 +5,7 @@ If you're not familiar with [Travis CI](https://travis-ci.org) and [continuous i
 ### Are You Using Selenium
 Are you using Selenium for integration testing? If so, you'll need to create a Sauce Labs account. If not, you can ignore any mention of Sauce Labs in the instructions below.
 
-If you are using Selenium, you need to create a Sauce Labs account and provide Travis CI with your username and access key. The directions can be found [here](/HOWTO-SELENIUM.md) under "Creating a Sauce Labs account".
+If you are using Selenium, you need to create a Sauce Labs account and provide Travis CI with your username and access key. The directions can be found [here](/HOW-TO-SELENIUM.md) under "Creating a Sauce Labs account".
 
 ### To get started with Travis CI:
 
