@@ -2,6 +2,9 @@
 
 If you're not familiar with [Travis CI](https://travis-ci.org) and [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration), you can try reading [Travis CI for Complete Beginners](http://docs.travis-ci.com/user/for-beginners/) first.
 
+### Are You Using Selenium
+Are you using Selenium for integration testing? If so, you'll need to create a SauceLabs account. If not, you can ignore any mention of SauceLabs in the instructions below.
+
 ### To get started with Travis CI:
 
 1. [Sign in to Travis CI](https://travis-ci.org/auth) with your GitHub account, and accept the GitHub access permissions confirmation.
