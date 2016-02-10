@@ -3,7 +3,9 @@
 If you're not familiar with [Travis CI](https://travis-ci.org) and [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration), you can try reading [Travis CI for Complete Beginners](http://docs.travis-ci.com/user/for-beginners/) first.
 
 ### Are You Using Selenium
-Are you using Selenium for integration testing? If so, you'll need to create a SauceLabs account. If not, you can ignore any mention of SauceLabs in the instructions below.
+Are you using Selenium for integration testing? If so, you'll need to create a Sauce Labs account. If not, you can ignore any mention of Sauce Labs in the instructions below.
+
+If you are using Selenium, you need to create a Sauce Labs account and provide Travis CI with your username and access key. The directions can be found [here](/HOWTO-SELENIUM.md) under "Creating a Sauce Labs account".
 
 ### To get started with Travis CI:
 
@@ -42,9 +44,6 @@ Depending on the application, you may need environment variables such as these:
 * GOOGLE_TEST_EMAIL
 * GOOGLE_TEST_PASSWORD
 
-### Creating a Sauce Labs account
-
-You need to create a Sauce Labs account and provide Travis CI with your username and access key. The directions can be found [here](/HOWTO-SELENIUM.md) under "Creating a Sauce Labs account".
 
 
 
